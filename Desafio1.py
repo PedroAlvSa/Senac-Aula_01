@@ -1,3 +1,4 @@
-vendas=13000; meta=15000
-cal=(((meta-vendas)/100)-100)*-1
-print(f'{cal:.2f}%')
+vendas=float(input('Digite o valor de vendas: '))
+meta=15000
+cal=((vendas/meta)*100)
+print(f'Você ja alcançou {cal:.2f}% da meta')

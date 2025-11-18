@@ -52,9 +52,6 @@
 
 
 
-sal=float (input('Qual o seu salário? '))
-sal1=sal+(sal*0.15)
-print(f'Seu novo salário é de: {sal1:.2f}\nAcréscimo de: {sal*0.15:.2f}')
-
-
-
+# sal=float(input('Qual o seu salário? '))
+# sal1=sal+(sal*0.15)
+# print(f'Seu novo salário é de: {sal1:.2f}\nAcréscimo de: {sal*0.15:.2f}')
